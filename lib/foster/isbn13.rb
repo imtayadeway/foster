@@ -1,4 +1,4 @@
-class Isbn::Isbn13 < Isbn::Base
+class Foster::Isbn13 < Foster::Base
   DIGITS = 13
 
   def self.valid?(string)

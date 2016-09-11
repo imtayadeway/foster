@@ -1,2 +1,2 @@
 require "minitest/autorun"
-require "isbn"
+require "foster"

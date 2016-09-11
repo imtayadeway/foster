@@ -1,4 +1,4 @@
-class Isbn::Base
+class Foster::Base
   def initialize(elements)
     @elements = elements
   end
